@@ -56,5 +56,3 @@ or if you can use the db.sqlite3 then the default admin is
 * Django 3.2+
 * Django Rest Framework 3.12+
 * PyJWT 2.3+
-
-Note: This is just a basic `README.md` file, and you may want to add more details or sections depending on your project's specific needs.
